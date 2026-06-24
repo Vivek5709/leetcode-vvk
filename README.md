@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Vivek5709/leetcode-vvk/tree/master/0112-path-sum) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Vivek5709/leetcode-vvk/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Vivek5709/leetcode-vvk/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->

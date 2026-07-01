@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vivek5709/leetcode-vvk/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/Vivek5709/leetcode-vvk/tree/master/0404-sum-of-left-leaves) |
 | [0938-range-sum-of-bst](https://github.com/Vivek5709/leetcode-vvk/tree/master/0938-range-sum-of-bst) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Vivek5709/leetcode-vvk/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vivek5709/leetcode-vvk/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/Vivek5709/leetcode-vvk/tree/master/0404-sum-of-left-leaves) |
 | [0938-range-sum-of-bst](https://github.com/Vivek5709/leetcode-vvk/tree/master/0938-range-sum-of-bst) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Vivek5709/leetcode-vvk/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vivek5709/leetcode-vvk/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/Vivek5709/leetcode-vvk/tree/master/0404-sum-of-left-leaves) |
 | [0938-range-sum-of-bst](https://github.com/Vivek5709/leetcode-vvk/tree/master/0938-range-sum-of-bst) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Vivek5709/leetcode-vvk/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |

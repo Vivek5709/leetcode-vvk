@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vivek5709/leetcode-vvk/tree/master/0141-linked-list-cycle) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vivek5709/leetcode-vvk/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3842-toggle-light-bulbs](https://github.com/Vivek5709/leetcode-vvk/tree/master/3842-toggle-light-bulbs) |
 ## Stack
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vivek5709/leetcode-vvk/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vivek5709/leetcode-vvk/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3842-toggle-light-bulbs](https://github.com/Vivek5709/leetcode-vvk/tree/master/3842-toggle-light-bulbs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -110,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vivek5709/leetcode-vvk/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Sorting
+|  |
+| ------- |
+| [3842-toggle-light-bulbs](https://github.com/Vivek5709/leetcode-vvk/tree/master/3842-toggle-light-bulbs) |
+## Simulation
+|  |
+| ------- |
+| [3842-toggle-light-bulbs](https://github.com/Vivek5709/leetcode-vvk/tree/master/3842-toggle-light-bulbs) |
 <!---LeetCode Topics End-->

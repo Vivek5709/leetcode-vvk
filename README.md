@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vivek5709/leetcode-vvk/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Vivek5709/leetcode-vvk/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vivek5709/leetcode-vvk/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/Vivek5709/leetcode-vvk/tree/master/0242-valid-anagram) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vivek5709/leetcode-vvk/tree/master/0001-two-sum) |
 | [1122-relative-sort-array](https://github.com/Vivek5709/leetcode-vvk/tree/master/1122-relative-sort-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vivek5709/leetcode-vvk/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vivek5709/leetcode-vvk/tree/master/2114-maximum-number-of-words-found-in-sentences) |

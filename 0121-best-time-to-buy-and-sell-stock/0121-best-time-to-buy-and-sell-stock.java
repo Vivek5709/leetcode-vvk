@@ -1,7 +1,7 @@
 class Solution {
     public int maxProfit(int[] prices) {
         
-        int max_profit = Integer.MIN_VALUE;
+        int max_profit = 0;
         int prev_min = prices[0];
 
         for(int i=1;i<prices.length;i++){

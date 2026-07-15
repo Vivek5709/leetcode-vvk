@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Vivek5709/leetcode-vvk/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Vivek5709/leetcode-vvk/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vivek5709/leetcode-vvk/tree/master/0160-intersection-of-two-linked-lists) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Vivek5709/leetcode-vvk/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Vivek5709/leetcode-vvk/tree/master/1122-relative-sort-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vivek5709/leetcode-vvk/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vivek5709/leetcode-vvk/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Vivek5709/leetcode-vvk/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vivek5709/leetcode-vvk/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3842-toggle-light-bulbs](https://github.com/Vivek5709/leetcode-vvk/tree/master/3842-toggle-light-bulbs) |
 ## Divide and Conquer
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Vivek5709/leetcode-vvk/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3842-toggle-light-bulbs](https://github.com/Vivek5709/leetcode-vvk/tree/master/3842-toggle-light-bulbs) |
 ## Counting Sort
 |  |

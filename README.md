@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Vivek5709/leetcode-vvk/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Vivek5709/leetcode-vvk/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Vivek5709/leetcode-vvk/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vivek5709/leetcode-vvk/tree/master/0160-intersection-of-two-linked-lists) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vivek5709/leetcode-vvk/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/Vivek5709/leetcode-vvk/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Vivek5709/leetcode-vvk/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vivek5709/leetcode-vvk/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Vivek5709/leetcode-vvk/tree/master/0169-majority-element) |

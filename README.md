@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Vivek5709/leetcode-vvk/tree/master/0222-count-complete-tree-nodes) |
+| [0367-valid-perfect-square](https://github.com/Vivek5709/leetcode-vvk/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Vivek5709/leetcode-vvk/tree/master/0048-rotate-image) |
+| [0367-valid-perfect-square](https://github.com/Vivek5709/leetcode-vvk/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivek5709/leetcode-vvk/tree/master/0628-maximum-product-of-three-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vivek5709/leetcode-vvk/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory

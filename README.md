@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Vivek5709/leetcode-vvk/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vivek5709/leetcode-vvk/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Vivek5709/leetcode-vvk/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Vivek5709/leetcode-vvk/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vivek5709/leetcode-vvk/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vivek5709/leetcode-vvk/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vivek5709/leetcode-vvk/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Vivek5709/leetcode-vvk/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/Vivek5709/leetcode-vvk/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Vivek5709/leetcode-vvk/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivek5709/leetcode-vvk/tree/master/0628-maximum-product-of-three-numbers) |
 | [1122-relative-sort-array](https://github.com/Vivek5709/leetcode-vvk/tree/master/1122-relative-sort-array) |

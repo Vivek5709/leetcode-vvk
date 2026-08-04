@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Vivek5709/leetcode-vvk/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Vivek5709/leetcode-vvk/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivek5709/leetcode-vvk/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Vivek5709/leetcode-vvk/tree/master/0877-stone-game) |
 | [1122-relative-sort-array](https://github.com/Vivek5709/leetcode-vvk/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivek5709/leetcode-vvk/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vivek5709/leetcode-vvk/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Vivek5709/leetcode-vvk/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vivek5709/leetcode-vvk/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Vivek5709/leetcode-vvk/tree/master/0152-maximum-product-subarray) |
+| [0877-stone-game](https://github.com/Vivek5709/leetcode-vvk/tree/master/0877-stone-game) |
 ## Math
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Vivek5709/leetcode-vvk/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Vivek5709/leetcode-vvk/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivek5709/leetcode-vvk/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Vivek5709/leetcode-vvk/tree/master/0877-stone-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vivek5709/leetcode-vvk/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -226,4 +229,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vivek5709/leetcode-vvk/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Vivek5709/leetcode-vvk/tree/master/0203-remove-linked-list-elements) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Vivek5709/leetcode-vvk/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Vivek5709/leetcode-vvk/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Vivek5709/leetcode-vvk/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

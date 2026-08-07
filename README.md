@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivek5709/leetcode-vvk/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Vivek5709/leetcode-vvk/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Vivek5709/leetcode-vvk/tree/master/0877-stone-game) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Vivek5709/leetcode-vvk/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vivek5709/leetcode-vvk/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -251,4 +252,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/Vivek5709/leetcode-vvk/tree/master/2951-find-the-peaks) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Vivek5709/leetcode-vvk/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->

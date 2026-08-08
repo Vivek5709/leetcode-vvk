@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Vivek5709/leetcode-vvk/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/Vivek5709/leetcode-vvk/tree/master/0222-count-complete-tree-nodes) |
 ## Tree
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Vivek5709/leetcode-vvk/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Vivek5709/leetcode-vvk/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Vivek5709/leetcode-vvk/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/Vivek5709/leetcode-vvk/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vivek5709/leetcode-vvk/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Vivek5709/leetcode-vvk/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Vivek5709/leetcode-vvk/tree/master/0152-maximum-product-subarray) |
@@ -253,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2951-find-the-peaks](https://github.com/Vivek5709/leetcode-vvk/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vivek5709/leetcode-vvk/tree/master/3345-smallest-divisible-digit-product-i) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Vivek5709/leetcode-vvk/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

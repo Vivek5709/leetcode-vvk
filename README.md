@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Vivek5709/leetcode-vvk/tree/master/0877-stone-game) |
 | [1122-relative-sort-array](https://github.com/Vivek5709/leetcode-vvk/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivek5709/leetcode-vvk/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Vivek5709/leetcode-vvk/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vivek5709/leetcode-vvk/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vivek5709/leetcode-vvk/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vivek5709/leetcode-vvk/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Vivek5709/leetcode-vvk/tree/master/0242-valid-anagram) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Vivek5709/leetcode-vvk/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vivek5709/leetcode-vvk/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vivek5709/leetcode-vvk/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vivek5709/leetcode-vvk/tree/master/3090-maximum-length-substring-with-two-occurrences) |

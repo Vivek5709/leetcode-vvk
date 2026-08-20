@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Vivek5709/leetcode-vvk/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Vivek5709/leetcode-vvk/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Vivek5709/leetcode-vvk/tree/master/0222-count-complete-tree-nodes) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Vivek5709/leetcode-vvk/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vivek5709/leetcode-vvk/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Tree
 |  |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivek5709/leetcode-vvk/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/Vivek5709/leetcode-vvk/tree/master/0242-valid-anagram) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Vivek5709/leetcode-vvk/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Vivek5709/leetcode-vvk/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vivek5709/leetcode-vvk/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vivek5709/leetcode-vvk/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Vivek5709/leetcode-vvk/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Vivek5709/leetcode-vvk/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Vivek5709/leetcode-vvk/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Vivek5709/leetcode-vvk/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivek5709/leetcode-vvk/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Vivek5709/leetcode-vvk/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Vivek5709/leetcode-vvk/tree/master/0877-stone-game) |

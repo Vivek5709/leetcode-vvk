@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Vivek5709/leetcode-vvk/tree/master/0560-subarray-sum-equals-k) |
 | [1122-relative-sort-array](https://github.com/Vivek5709/leetcode-vvk/tree/master/1122-relative-sort-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vivek5709/leetcode-vvk/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Vivek5709/leetcode-vvk/tree/master/2094-finding-3-digit-even-numbers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vivek5709/leetcode-vvk/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vivek5709/leetcode-vvk/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vivek5709/leetcode-vvk/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vivek5709/leetcode-vvk/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vivek5709/leetcode-vvk/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vivek5709/leetcode-vvk/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Vivek5709/leetcode-vvk/tree/master/2094-finding-3-digit-even-numbers) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vivek5709/leetcode-vvk/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vivek5709/leetcode-vvk/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2951-find-the-peaks](https://github.com/Vivek5709/leetcode-vvk/tree/master/2951-find-the-peaks) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivek5709/leetcode-vvk/tree/master/0628-maximum-product-of-three-numbers) |
 | [1122-relative-sort-array](https://github.com/Vivek5709/leetcode-vvk/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivek5709/leetcode-vvk/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Vivek5709/leetcode-vvk/tree/master/2094-finding-3-digit-even-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vivek5709/leetcode-vvk/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3842-toggle-light-bulbs](https://github.com/Vivek5709/leetcode-vvk/tree/master/3842-toggle-light-bulbs) |
 ## Simulation
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vivek5709/leetcode-vvk/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Vivek5709/leetcode-vvk/tree/master/0203-remove-linked-list-elements) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Vivek5709/leetcode-vvk/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vivek5709/leetcode-vvk/tree/master/3483-unique-3-digit-even-numbers) |
 ## Minimax
 |  |
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/Vivek5709/leetcode-vvk/tree/master/2094-finding-3-digit-even-numbers) |
 | [2951-find-the-peaks](https://github.com/Vivek5709/leetcode-vvk/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vivek5709/leetcode-vvk/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vivek5709/leetcode-vvk/tree/master/3483-unique-3-digit-even-numbers) |

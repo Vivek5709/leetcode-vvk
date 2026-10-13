@@ -264,12 +264,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivek5709/leetcode-vvk/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Vivek5709/leetcode-vvk/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Vivek5709/leetcode-vvk/tree/master/0877-stone-game) |
+| [1492-the-kth-factor-of-n](https://github.com/Vivek5709/leetcode-vvk/tree/master/1492-the-kth-factor-of-n) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vivek5709/leetcode-vvk/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vivek5709/leetcode-vvk/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vivek5709/leetcode-vvk/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Vivek5709/leetcode-vvk/tree/master/1492-the-kth-factor-of-n) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vivek5709/leetcode-vvk/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Union-Find
 |  |
@@ -355,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vivek5709/leetcode-vvk/tree/master/0215-kth-largest-element-in-an-array) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Vivek5709/leetcode-vvk/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->

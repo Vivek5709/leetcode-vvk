@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vivek5709/leetcode-vvk/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vivek5709/leetcode-vvk/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vivek5709/leetcode-vvk/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Vivek5709/leetcode-vvk/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Number Theory
 |  |
 | ------- |
@@ -361,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Vivek5709/leetcode-vvk/tree/master/1492-the-kth-factor-of-n) |
+## Greedy
+|  |
+| ------- |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Vivek5709/leetcode-vvk/tree/master/3723-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->

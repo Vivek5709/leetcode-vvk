@@ -14,27 +14,17 @@
  * }
  */
 class Solution {
-    boolean isFound = false;
+    int ans = -1;
     int count = 0;
-    int num = 0;
 
     public int kthSmallest(TreeNode root, int k) {
-        if (root == null || isFound)
-        return num;
+        if(root == null || count == k) return ans;
+        
+        kthSmallest(root.left, k);
+        count++;
+        if(count == k) ans = root.val;
+        kthSmallest(root.right, k);
 
-    kthSmallest(root.left, k);
-
-    if (isFound) return num;
-
-    count++;
-    if (count == k) {
-        isFound = true;
-        num = root.val;
-        return num;
-    }
-
-    kthSmallest(root.right, k);
-
-    return num;
+        return ans;
     }
 }

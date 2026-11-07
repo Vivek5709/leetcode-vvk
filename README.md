@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Vivek5709/leetcode-vvk/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vivek5709/leetcode-vvk/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vivek5709/leetcode-vvk/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Vivek5709/leetcode-vvk/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Vivek5709/leetcode-vvk/tree/master/0938-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Vivek5709/leetcode-vvk/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Vivek5709/leetcode-vvk/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Vivek5709/leetcode-vvk/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vivek5709/leetcode-vvk/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vivek5709/leetcode-vvk/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Vivek5709/leetcode-vvk/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Vivek5709/leetcode-vvk/tree/master/0938-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Vivek5709/leetcode-vvk/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Vivek5709/leetcode-vvk/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vivek5709/leetcode-vvk/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/Vivek5709/leetcode-vvk/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/Vivek5709/leetcode-vvk/tree/master/0547-number-of-provinces) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Vivek5709/leetcode-vvk/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/Vivek5709/leetcode-vvk/tree/master/0841-keys-and-rooms) |
 | [0938-range-sum-of-bst](https://github.com/Vivek5709/leetcode-vvk/tree/master/0938-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Vivek5709/leetcode-vvk/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Vivek5709/leetcode-vvk/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/Vivek5709/leetcode-vvk/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/Vivek5709/leetcode-vvk/tree/master/0547-number-of-provinces) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Vivek5709/leetcode-vvk/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/Vivek5709/leetcode-vvk/tree/master/0841-keys-and-rooms) |
 ## Linked List
 |  |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Vivek5709/leetcode-vvk/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vivek5709/leetcode-vvk/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vivek5709/leetcode-vvk/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Vivek5709/leetcode-vvk/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Vivek5709/leetcode-vvk/tree/master/0938-range-sum-of-bst) |
 ## String
 |  |

@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Vivek5709/leetcode-vvk/tree/master/1122-relative-sort-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vivek5709/leetcode-vvk/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Vivek5709/leetcode-vvk/tree/master/2094-finding-3-digit-even-numbers) |
+| [2784-check-if-array-is-good](https://github.com/Vivek5709/leetcode-vvk/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vivek5709/leetcode-vvk/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vivek5709/leetcode-vvk/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vivek5709/leetcode-vvk/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vivek5709/leetcode-vvk/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vivek5709/leetcode-vvk/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Vivek5709/leetcode-vvk/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2784-check-if-array-is-good](https://github.com/Vivek5709/leetcode-vvk/tree/master/2784-check-if-array-is-good) |
 | [2951-find-the-peaks](https://github.com/Vivek5709/leetcode-vvk/tree/master/2951-find-the-peaks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vivek5709/leetcode-vvk/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vivek5709/leetcode-vvk/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Vivek5709/leetcode-vvk/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vivek5709/leetcode-vvk/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Vivek5709/leetcode-vvk/tree/master/2094-finding-3-digit-even-numbers) |
+| [2784-check-if-array-is-good](https://github.com/Vivek5709/leetcode-vvk/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vivek5709/leetcode-vvk/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3842-toggle-light-bulbs](https://github.com/Vivek5709/leetcode-vvk/tree/master/3842-toggle-light-bulbs) |
 ## Simulation
